@@ -1,0 +1,3 @@
+Enter first number3.4
+Enter second number5.5
+The Product is18.7
